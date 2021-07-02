@@ -1,4 +1,4 @@
-//package com.cf.div2.c726;
+package com.cf.div2.c726;
 
 import java.io.BufferedReader;
 import java.io.IOException;
